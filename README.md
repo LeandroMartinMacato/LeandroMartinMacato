@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandromartinmacato&show_icons=true&locale=en" alt="leandromartinmacato" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandromartinmacato&" alt="leandromartinmacato" /></p>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66d7d671553501e3c30f1237?variant=dark&roadmaps=backend)](https://roadmap.sh)
