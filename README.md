@@ -1,31 +1,114 @@
-<p align=center>
-  <img src="https://user-images.githubusercontent.com/23295416/165224037-811ecf41-6418-4862-9a40-35651b1dc277.gif" alt="codin">
+<!-- ================= PIXEL KNIGHT HEADER ================= -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hybDR1b3lkOHFkdGVpOGNqamJhMXB1c2l0cWpoZW91bWp5cmhtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vbt2TUDyXTy30mOh6K/giphy.gif" width="600" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Leandro Martin Macato</h1>
-<h3 align="center">A developer from Philippines</h3>
+<h1 align="center">⚔️ Leandro Martin Macato</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=leandromartinmacato&label=Profile%20views&color=0e75b6&style=flat" alt="leandromartinmacato" /> </p>
+<p align="center">
+  <b>Backend Engineer • Cloud Architect • Data Systems Builder</b><br>
+  <i>Philippines 🇵🇭</i>
+</p>
 
-  
-<h3 align="left">Connect with me:</h3>
-<div id="badges">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leandromartinmacato&label=XP&color=ff00ff&style=flat-square" />
+</p>
+
+---
+
+## 🏰 Character Profile
+
+```bash
+Class: Backend Knight
+Level: Scaling Systems
+Guild: Cloud & Data
+
+Special Skills:
+- API Architecture
+- Distributed Systems
+- DevOps Automation
+- Data Pipelines
+```
+
+---
+
+## ⚙️ Arsenal (Tech Stack)
+
+### 🧩 Core Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,django,flask" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions" />
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### 🐧 Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git" />
+</p>
+
+### 📊 Data & Analytics
+<p>
+  <!-- Apache Superset -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48"/>
+  <!-- Apache Airflow -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="48"/>
+</p>
+
+---
+
+## 📊 Battle Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leandromartinmacato&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandromartinmacato&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🧠 Current Quest
+
+```bash
+> build scalable backend systems
+> automate infrastructure
+> master distributed architecture
+> keep shipping
+```
+
+---
+
+## 🔗 Guild Links
+
+<p>
   <a href="https://www.linkedin.com/in/leandro-martin-macato/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/160712147096043520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="160712147096043520" height="30" width="40" /></a>
+  <a href="https://discord.gg/160712147096043520">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
-</div>
-<p align="left">
+
+---
+
+```java
+while(true) {
+    code();
+    refactor();
+    deploy();
+    repeat();
+}
+```
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="500" />
 </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandromartinmacato&show_icons=true&locale=en" alt="leandromartinmacato" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandromartinmacato&" alt="leandromartinmacato" /></p>
-
-[![roadmap.sh](https://roadmap.sh/card/tall/66d7d671553501e3c30f1237?variant=dark&roadmaps=backend)](https://roadmap.sh)
